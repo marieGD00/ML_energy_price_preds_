@@ -1,2 +1,2 @@
 # machine_learning
-I ran a random forest and Arima model to predict energy prices
+I ran a random forest, Arima model, and XG boost on two different energy datasets to predict energy prices
